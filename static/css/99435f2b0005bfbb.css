@@ -1,0 +1,40 @@
+.HomeView_container__STD75 {
+}
+
+@font-face {
+    font-family: 'Skrapbook';
+    src: 
+         url(/_next/static/media/Skrapbook.1c0897d9.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+.GalleryView_module__1K6F- {
+    cursor: url('https://www.solstains.xyz/assets/custom.png'), auto;	
+  }
+
+  @font-face {
+    font-family: 'Skrapbook';
+    src: 
+         url(/_next/static/media/Skrapbook.1c0897d9.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.GalleryView_body__3xfzA {
+    font-family: 'Skrapbook';
+    color: aqua;
+}
+
+.GalleryView_bal__3MEZ4 {
+    border-radius: 35px;
+    background: #b1b1b160;
+    padding: 30px;
+    text-align: center;
+    width: 900px;
+    height: 360px;
+}
+
+
+
+
+
